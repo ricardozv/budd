@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "budd - teste",
+    "slug": "kankOpen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 3000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zumbiverde.barbuddybrasil",
+      "config": {
+        "googleMapsApiKey": "AIzaSyDM-KzfQV2cyKUL6VNZT7egLrXcuHlPeB4"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.zumbiverde.barbuddybrasil",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDM-KzfQV2cyKUL6VNZT7egLrXcuHlPeB4"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "react-native": {
+        "maps_api_key": "AIzaSyDM-KzfQV2cyKUL6VNZT7egLrXcuHlPeB4"
+      },
+      "eas": {
+        "projectId": "e2961b7a-7fea-4848-a5f0-c20a612fa3d1"
+      }
+    }
+  }
+}

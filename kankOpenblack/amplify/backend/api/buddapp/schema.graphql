@@ -1,0 +1,32 @@
+input AMPLIFY {
+  globalAuthRule: AuthRule = {allow: public}
+}
+
+type Bares @model {
+  id: ID!
+  nome: String!
+  endereco: String!
+  latitude: Float
+  longitude: Float
+  imagem_url: String
+  horarioFuncionamento: String
+  nomeResponsavel: String
+  rgResponsavel: String
+  cpfResponsavel: String
+  pixResponsavel: String
+  enderecoResponsavel: String
+  createdAt: AWSDateTime
+  updatedAt: AWSDateTime
+}
+
+type Eventos @model {
+  id: ID!
+  nome: String!
+  endereco: String!
+  latitude: Float
+  longitude: Float
+  image_url: String
+  horarioFuncionamento: String
+  createdAt: AWSDateTime
+  updatedAt: AWSDateTime
+}

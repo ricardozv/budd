@@ -1,0 +1,29 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "target": "ES2020", 
+    "module": "commonjs", 
+    "esModuleInterop": true, 
+    "moduleResolution": "node", 
+    "resolveJsonModule": true, 
+    "outDir": "./dist", // Diretório para os arquivos de saída da compilação
+    "baseUrl": "./", // Define a base dos módulos relativos
+    "paths": { // Pode ser ajustado conforme necessário para mapear importações
+      "*": ["node_modules/*"]
+    },
+    "noEmitOnError": true, // Não gera arquivos de saída se houver erros
+    "noImplicitReturns": true, // Verifica todos os caminhos de código em uma função para garantir que tenham um retorno
+    "noFallthroughCasesInSwitch": true, // Evita que casos em instruções switch caiam um no outro
+    "forceConsistentCasingInFileNames": true // Garante consistência na capitalização dos nomes de arquivo importados
+  },
+  "include": [
+    "src/**/*" // Inclui todos os arquivos TypeScript do diretório 'src' para compilação
+  ],
+  "exclude": [
+    "node_modules", // Exclui o diretório 'node_modules' da compilação
+    "babel.config.js", // Arquivos específicos do Expo/cliente podem ser excluídos conforme necessário
+    "metro.config.js",
+    "jest.config.js"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-buddapp-dev-6004b-authRole",
+      "UnauthRoleArn": "arn:aws:iam::459032456812:role/amplify-buddapp-dev-6004b-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::459032456812:role/amplify-buddapp-dev-6004b-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-buddapp-dev-6004b-deployment",
+      "UnauthRoleName": "amplify-buddapp-dev-6004b-unauthRole",
+      "StackName": "amplify-buddapp-dev-6004b",
+      "StackId": "arn:aws:cloudformation:us-east-1:459032456812:stack/amplify-buddapp-dev-6004b/14d66db0-1424-11ef-9828-126e92bf74eb",
+      "AmplifyAppId": "ddtymua79joxp"
+    },
+    "categories": {
+      "auth": {
+        "buddapp802b5f80": {}
+      },
+      "api": {
+        "buddapp": {}
+      },
+      "function": {
+        "S3Trigger288aa3a8": {
+          "deploymentBucketName": "amplify-buddapp-dev-6004b-deployment",
+          "s3Key": "amplify-builds/S3Trigger288aa3a8-4d4e4377505157706d74-build.zip"
+        }
+      },
+      "storage": {
+        "s3748870a5": {}
+      }
+    }
+  }
+}

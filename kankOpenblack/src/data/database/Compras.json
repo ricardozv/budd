@@ -1,0 +1,290 @@
+{
+    "purchases0": [
+    {
+        "establishment_id": "1",
+        "establishment_name": "Rave Bar",
+        "date": "2022-12-01",
+        "time": "20:00",
+        "tickets": {
+        "quantity": 1,
+        "price": 45.00
+    },
+        "drinks": [
+            {
+                "name": "Agua 60 ml",
+                "quantity": 2,
+                "price": 8.98
+            },
+            {
+                "name": "Pepsi",
+                "quantity": 1,
+                "price": 8
+            },
+            {
+                "name": "Cacildes",
+                "quantity": 3,
+                "price": 8
+            }
+    ],
+        "foods": [
+        {
+            "name": "Empadas",
+            "quantity": 2,
+            "price": 5
+        },
+        {
+            "name": "Petisco misto",
+            "quantity": 1,
+            "price": 20
+        }],
+            "total": 128.96
+    }], 
+
+    "purchases1": [
+        {
+            "establishment_id": "2",
+            "establishment_name": "Bar do Chico",
+            "date": "2022-12-02",
+            "time": "21:00",
+            "tickets": {
+            "quantity": 1,
+            "price": 45.00
+        },
+            "drinks": [
+                {
+                    "name": "Agua 60 ml",
+                    "quantity": 2,
+                    "price": 8.98
+                },
+                {
+                    "name": "Pepsi",
+                    "quantity": 1,
+                    "price": 8
+                },
+                {
+                    "name": "Cacildes",
+                    "quantity": 3,
+                    "price": 8
+                }
+        ],
+            "foods": [
+            {
+                "name": "Empadas",
+                "quantity": 2,
+                "price": 5
+            },
+            {
+                "name": "Petisco misto",
+                "quantity": 1,
+                "price": 20
+            }
+        ],
+                "total": 128.96
+        }],
+
+        "purchases2": [
+            {
+                "establishment_id": "2",
+                "establishment_name": "Bar do Chico",
+                "date": "2022-12-02",
+                "time": "21:00",
+                "tickets": {
+                "quantity": 1,
+                "price": 45.00
+            },
+                "drinks": [
+                    {
+                        "name": "Agua 60 ml",
+                        "quantity": 2,
+                        "price": 8.98
+                    },
+                    {
+                        "name": "Pepsi",
+                        "quantity": 1,
+                        "price": 8
+                    },
+                    {
+                        "name": "Cacildes",
+                        "quantity": 3,
+                        "price": 8
+                    }
+            ],
+                "foods": [
+                {
+                    "name": "Empadas",
+                    "quantity": 2,
+                    "price": 5
+                },
+                {
+                    "name": "Petisco misto",
+                    "quantity": 1,
+                    "price": 20
+                }
+            ],
+                    "total": 128.96
+            }], 
+            "purchases3": [
+                {
+                    "establishment_id": "1",
+                    "establishment_name": "Rave Bar",
+                    "date": "2022-12-01",
+                    "time": "20:00",
+                    "tickets": {
+                    "quantity": 1,
+                    "price": 45.00
+                },
+                    "drinks": [
+                        {
+                            "name": "Agua 60 ml",
+                            "quantity": 2,
+                            "price": 8.98
+                        },
+                        {
+                            "name": "Pepsi",
+                            "quantity": 1,
+                            "price": 8
+                        },
+                        {
+                            "name": "Cacildes",
+                            "quantity": 3,
+                            "price": 8
+                        }
+                ],
+                    "foods": [
+                    {
+                        "name": "Empadas",
+                        "quantity": 2,
+                        "price": 5
+                    },
+                    {
+                        "name": "Petisco misto",
+                        "quantity": 1,
+                        "price": 20
+                    }],
+                        "total": 128.96
+                }], 
+            
+                "purchases4": [
+                    {
+                        "establishment_id": "2",
+                        "establishment_name": "Bar do Chico",
+                        "date": "2022-12-02",
+                        "time": "21:00",
+                        "tickets": {
+                        "quantity": 1,
+                        "price": 45.00
+                    },
+                        "drinks": [
+                            {
+                                "name": "Agua 60 ml",
+                                "quantity": 2,
+                                "price": 8.98
+                            },
+                            {
+                                "name": "Pepsi",
+                                "quantity": 1,
+                                "price": 8
+                            },
+                            {
+                                "name": "Cacildes",
+                                "quantity": 3,
+                                "price": 8
+                            }
+                    ],
+                        "foods": [
+                        {
+                            "name": "Empadas",
+                            "quantity": 2,
+                            "price": 5
+                        },
+                        {
+                            "name": "Petisco misto",
+                            "quantity": 1,
+                            "price": 20
+                        }
+                    ],
+                            "total": 128.96
+                    }],
+                    
+                    "purchases5": [
+                        {
+                            "establishment_id": "2",
+                            "establishment_name": "Bar do Chico",
+                            "date": "2022-12-02",
+                            "time": "21:00",
+                            "tickets": {
+                            "quantity": 1,
+                            "price": 45.00
+                        },
+                            "drinks": [
+                                {
+                                    "name": "Agua 60 ml",
+                                    "quantity": 2,
+                                    "price": 8.98
+                                },
+                                {
+                                    "name": "Pepsi",
+                                    "quantity": 1,
+                                    "price": 8
+                                },
+                                {
+                                    "name": "Cacildes",
+                                    "quantity": 3,
+                                    "price": 8
+                                }
+                        ],
+                            "foods": [
+                            {
+                                "name": "Empadas",
+                                "quantity": 2,
+                                "price": 5
+                            },
+                            {
+                                "name": "Petisco misto",
+                                "quantity": 1,
+                                "price": 20
+                            }
+                        ],
+                                "total": 128.96
+                        }],
+                        "purchases6": [
+                            {
+                                "establishment_id": "2",
+                                "establishment_name": "Bar do Chico",
+                                "date": "2022-12-02",
+                                "time": "21:00",
+                                "tickets": {
+                                "quantity": 1,
+                                "price": 45.00
+                            },
+                                "drinks": [
+                                    {
+                                        "name": "Agua 60 ml",
+                                        "quantity": 2,
+                                        "price": 8.98
+                                    },
+                                    {
+                                        "name": "Pepsi",
+                                        "quantity": 1,
+                                        "price": 8
+                                    },
+                                    {
+                                        "name": "Cacildes",
+                                        "quantity": 3,
+                                        "price": 8
+                                    }
+                            ],
+                                "foods": [
+                                {
+                                    "name": "Empadas",
+                                    "quantity": 2,
+                                    "price": 5
+                                },
+                                {
+                                    "name": "Petisco misto",
+                                    "quantity": 1,
+                                    "price": 20
+                                }
+                            ],
+                                    "total": 128.96
+                            }]}

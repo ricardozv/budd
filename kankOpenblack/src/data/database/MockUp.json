@@ -1,0 +1,1137 @@
+ {
+    "establishments": [
+    {
+        "id": "ChIJRwFm35SN9gcR8-JkNvDr5w41",
+        "name": "2nd Floor - Lounge & Club",
+        "image": "https://imagekank.s3.amazonaws.com/download+(2).jpeg",
+        "description": "Uma incrível festa!",
+        "location": {
+                        "address": "Av. dos Holandeses - Calhau",
+                        "latitude": -2.493019,
+                        "longitude": -44.2643016
+                    },
+        "date": "2022-12-01",
+        "time": "20:00",
+        "tickets": [
+            {
+              "type": "Inteira",
+              "price": 45.00
+            },
+            {
+              "type": "Meia",
+              "price": 22.50
+            },
+            {
+              "type": "Professor",
+              "price": 30.00
+            }
+          ],
+          "nextEventsWithTickets": [
+            {
+              "id": "ChIJRwFm35SN9gcR8-JkNvDr5w41",
+              "name": "2nd Floor - Lounge & Club",
+              "image": "https://imagekank.s3.amazonaws.com/download+(2).jpeg",
+              "description": "Uma incrível festa!",
+              "location": {
+                "address": "Av. dos Holandeses - Calhau",
+                "latitude": -2.493019,
+                "longitude": -44.2643016
+              },
+              "date": "2022-12-01",
+              "time": "20:00",
+              "ticketType": "Inteira",
+              "ticketPrice": 25.00,
+              "tickets": [
+                {
+                  "type": "Inteira",
+                  "price": 35.00
+                },
+                {
+                  "type": "Meia",
+                  "price": 42.50
+                },
+                {
+                  "type": "Professor",
+                  "price": 10.00
+                }
+              ]
+            }
+          ]
+        ,
+        
+        "drinks": { "waterAndSoda":[
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/water64.png",
+                                    "name": "Agua 60 ml",
+                                    "quantity": 10,
+                                    "price": 8.98
+                            }, 
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                                    "name": "Guarana",
+                                    "quantity": 10,
+                                    "price": 8
+                            }, 
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                                    "name": "Pepsi",
+                                    "quantity": 10,
+                                    "price": 8
+                            }
+                            ],
+                        "beer":[ 
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                                    "name": "Cacildes",
+                                    "quantity": 10,
+                                    "price": 8
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                                    "name": "Brahma",
+                                    "quantity": 15,
+                                    "price": 6
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Skol",
+                                    "quantity": 12,
+                                    "price": 15
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Brahma",
+                                    "quantity": 12,
+                                    "price": 9
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Skol",
+                                    "quantity": 12,
+                                    "price": 9
+                                }],
+                        "cocktail":[
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Mojito",
+                                    "quantity": 10,
+                                    "price": 12
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Caipirinha",
+                                    "quantity": 15,
+                                    "price": 10
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Caipirosca",
+                                    "quantity": 12,
+                                    "price": 15
+                                }],
+                        "liquor":[
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Absolut",
+                                    "quantity": 10,
+                                    "price": 25
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Jack Daniels",
+                                    "quantity": 15,
+                                    "price": 20
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Old Par",
+                                    "quantity": 12,
+                                    "price": 30
+                                }]},
+
+        "foods": { "Entradas":[{
+                                        "image": "https://imagekank.s3.amazonaws.com/agua.png",
+                                            "name": "Carpacho",
+                                            "quantity": 10,
+                                            "price": 8.98
+                                    }, 
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/guarana.png",
+                                            "name": "Batata frita",
+                                            "quantity": 10,
+                                            "price": 8.34
+                                    }, 
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/pepse.png",
+                                            "name": "salgado",
+                                            "quantity": 10,
+                                            "price": 8
+                                    }
+                                    ],
+                                "Hambuguers":[ 
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                            "name": "Buguer do Engenheiro",
+                                            "quantity": 10,
+                                            "price": 12.45
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                            "name": "Burgão",
+                                            "quantity": 15,
+                                            "price": 16.67
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                            "name": "X TUDO",
+                                            "quantity": 12,
+                                            "price": 15
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                            "name": "Burguer Fogo nos racistas",
+                                            "quantity": 12,
+                                            "price": 18.89
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                            "name": "Burguer Cana",
+                                            "quantity": 12,
+                                            "price": 9.98
+                                        }],
+                                "tiraGosto":[
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/mojito.png",
+                                            "name": "Rabada",
+                                            "quantity": 10,
+                                            "price": 12
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/caipirinha-800x600.png",
+                                            "name": "Panelada",
+                                            "quantity": 15,
+                                            "price": 10
+                                        },
+                                        {
+                                            "image": "https://imagekank.s3.amazonaws.com/caipirosca.png",
+                                            "name": "Mocotó",
+                                            "quantity": 12,
+                                            "price": 15
+                                        }]}
+                       },
+
+        {
+            "id": "2",
+           "name": "Bar do Chico",
+            "image": "https://imagekank.s3.amazonaws.com/Sinica-Blog.jpg",
+            "description": "Um bar tranquilo!",
+            "location": {
+                "address": "Rua das Flores, 22",
+                "latitude": -4.238238572497666, 
+                "longitude": -44.78584758411815
+            },
+            "date": "2022-12-01",
+        "time": "20:00",
+        "tickets": [
+            {
+              "type": "Inteira",
+              "price": 25.00
+            },
+            {
+              "type": "Meia",
+              "price": 32.50
+            },
+            {
+              "type": "Professor",
+              "price": 10.00
+            }
+          ],
+            "nextEventsWithTickets": [
+                {
+                  "id": "ChIJRwFm35SN9gcR8-JkNvDr5w41",
+                  "name": "2nd Floor - Lounge & Club",
+                  "image": "https://imagekank.s3.amazonaws.com/download+(2).jpeg",
+                  "description": "Uma incrível festa!",
+                  "location": {
+                    "address": "Av. dos Holandeses - Calhau",
+                    "latitude": -2.493019,
+                    "longitude": -44.2643016
+                  },
+                  "date": "2022-12-01",
+                  "time": "20:00",
+                  "ticketType": "Inteira",
+                  "ticketPrice": 45.00,
+                  "tickets": [
+                    {
+                      "type": "Inteira",
+                      "price": 45.00
+                    },
+                    {
+                      "type": "Meia",
+                      "price": 22.50
+                    },
+                    {
+                      "type": "Professor",
+                      "price": 30.00
+                    }
+                  ]
+                }
+              ]
+            ,
+            "drinks": {
+                "beer": {
+                    "quantity": 25,
+                    "price": 6
+                },
+                "cocktail": {
+                    "quantity": 20,
+                    "price": 9
+                },
+                "liquor": {
+                    "quantity": 15,
+                    "price": 12
+                }
+            },
+            "food": {
+                "quantity": 25,
+                "price": 20
+            }},
+            {
+            "id": "3",
+            "name": "The Weekend",
+           "image": "https://imagekank.s3.amazonaws.com/the-week-rio.jpg",
+          "description": "Uma noite linda com músicos",
+            "location": {
+                    "address": "Rua das Flores, 22",
+                    "latitude": -4.235090089866667, 
+                    "longitude": -44.781427594330395
+                },
+                "date": "2022-12-01",
+                "time": "20:00",
+                "tickets": [
+                    {
+                      "type": "Inteira",
+                      "price": 45.00
+                    },
+                    {
+                      "type": "Meia",
+                      "price": 22.50
+                    },
+                    {
+                      "type": "Professor",
+                      "price": 30.00
+                    }
+                  ],
+            "drinks": {
+                "beer": {
+                    "quantity": 40,
+                    "price": 7
+                },
+                "cocktail": {
+                    "quantity": 35,
+                    "price": 10
+                },
+                "liquor": {
+                    "quantity": 30,
+                    "price": 15
+                 }
+             },
+            "food": {
+                "quantity": 30,
+                "price": 25
+        }},
+        {
+            "id": "4",
+          "name": "Bar do João",
+          "image": "https://imagekank.s3.amazonaws.com/amsterdam.jpg",
+          "description": "Um bar animado!",
+            "location": {
+                "address": "Rua dos Amigos, 15",
+                "latitude": -4.2187001256488825, 
+                "longitude": -44.78922742706347
+            },
+            "date": "2022-12-01",
+        "time": "20:00",
+        "tickets": [
+            {
+              "type": "Inteira",
+              "price": 45.00
+            },
+            {
+              "type": "Meia",
+              "price": 22.50
+            },
+            {
+              "type": "Professor",
+              "price": 30.00
+            }
+          ],
+            "drinks": {
+                "beer": {
+                    "quantity": 30,
+                    "price": 6
+                },
+                "cocktail": {
+                    "quantity": 25,
+                    "price": 9
+                },
+                "liquor": {
+                    "quantity": 20,
+                    "price": 12
+                }
+            },
+            "food": {
+                "quantity": 25,
+                "price": 20
+            }
+        },
+    {
+        "id": "5",
+        "name": "Velho Oeste Bar",
+        "image": "https://imagekank.s3.amazonaws.com/110_506147681.jpg",
+        "description": "Um bar aconchegante!",
+        "location": {
+            "address": "Rua dos Bobos, 0",
+            "latitude": -4.25351782396263, 
+            "longitude": -44.79947890574567
+            },
+            "date": "2022-12-01",
+            "time": "20:00",
+            "tickets": [
+                {
+                  "type": "Inteira",
+                  "price": 45.00
+                },
+                {
+                  "type": "Meia",
+                  "price": 22.50
+                },
+                {
+                  "type": "Professor",
+                  "price": 30.00
+                }
+              ],
+        "drinks": {
+                "beer": {
+                    "quantity": 20,
+                    "price": 5
+                },
+                "cocktail": {
+                    "quantity": 15,
+                    "price": 8
+                },
+                "liquor": {
+                    "quantity": 10,
+                    "price": 10
+                }
+                },
+                 "food": {
+                    "quantity": 20,
+                    "price": 35
+                 }},
+                 {
+                    "id": "6",
+                    "name": "Velho Oeste Bar",
+                    "image": "https://imagekank.s3.amazonaws.com/110_506147681.jpg",
+                    "description": "Um bar aconchegante!",
+                    "location": {
+                        "address": "Rua dos Bobos, 0",
+                        "latitude": -4.25351782396263, 
+                        "longitude": -44.79947890574567
+                        },
+                        "date": "2022-12-01",
+                        "time": "20:00",
+                        "tickets": [
+                            {
+                              "type": "Inteira",
+                              "price": 45.00
+                            },
+                            {
+                              "type": "Meia",
+                              "price": 22.50
+                            },
+                            {
+                              "type": "Professor",
+                              "price": 30.00
+                            }
+                          ],
+                    "drinks": {
+                            "beer": {
+                                "quantity": 20,
+                                "price": 5
+                            },
+                            "cocktail": {
+                                "quantity": 15,
+                                "price": 8
+                            },
+                            "liquor": {
+                                "quantity": 10,
+                                "price": 10
+                            }
+                            },
+                             "food": {
+                                "quantity": 20,
+                                "price": 35
+                             }},
+                             {
+                                "id": "7",
+                                "name": "Velho Oeste Bar",
+                                "image": "https://imagekank.s3.amazonaws.com/110_506147681.jpg",
+                                "description": "Um bar aconchegante!",
+                                "location": {
+                                    "address": "Rua dos Bobos, 0",
+                                    "latitude": -4.25351782396263, 
+                                    "longitude": -44.79947890574567
+                                    },
+                                    "date": "2022-12-01",
+                                    "time": "20:00",
+                                    "tickets": [
+                                        {
+                                          "type": "Inteira",
+                                          "price": 45.00
+                                        },
+                                        {
+                                          "type": "Meia",
+                                          "price": 22.50
+                                        },
+                                        {
+                                          "type": "Professor",
+                                          "price": 30.00
+                                        }
+                                      ],
+                                "drinks": {
+                                        "beer": {
+                                            "quantity": 20,
+                                            "price": 5
+                                        },
+                                        "cocktail": {
+                                            "quantity": 15,
+                                            "price": 8
+                                        },
+                                        "liquor": {
+                                            "quantity": 10,
+                                            "price": 10
+                                        }
+                                        },
+                                         "food": {
+                                            "quantity": 20,
+                                            "price": 35
+                                         }},
+                                         {
+                                            "id": "8",
+                                            "name": "Velho Oeste Bar",
+                                            "image": "https://imagekank.s3.amazonaws.com/110_506147681.jpg",
+                                            "description": "Um bar aconchegante!",
+                                            "location": {
+                                                "address": "Rua dos Bobos, 0",
+                                                "latitude": -4.25351782396263, 
+                                                "longitude": -44.79947890574567
+                                                },
+                                                "date": "2022-12-01",
+                                                "time": "20:00",
+                                                "tickets": [
+                                                    {
+                                                      "type": "Inteira",
+                                                      "price": 45.00
+                                                    },
+                                                    {
+                                                      "type": "Meia",
+                                                      "price": 22.50
+                                                    },
+                                                    {
+                                                      "type": "Professor",
+                                                      "price": 30.00
+                                                    }
+                                                  ],
+                                            "drinks": {
+                                                    "beer": {
+                                                        "quantity": 20,
+                                                        "price": 5
+                                                    },
+                                                    "cocktail": {
+                                                        "quantity": 15,
+                                                        "price": 8
+                                                    },
+                                                    "liquor": {
+                                                        "quantity": 10,
+                                                        "price": 10
+                                                    }
+                                                    },
+                                                     "food": {
+                                                        "quantity": 20,
+                                                        "price": 35
+                                                     }},
+                                                     {
+                                                        "id": "2",
+                                                       "name": "Bar do Chico",
+                                                        "image": "https://imagekank.s3.amazonaws.com/Sinica-Blog.jpg",
+                                                        "description": "Um bar tranquilo!",
+                                                        "location": {
+                                                            "address": "Rua das Flores, 22",
+                                                            "latitude": -4.238238572497666, 
+                                                            "longitude": -44.78584758411815
+                                                        },
+                                                        "date": "2022-12-01",
+                                                        "time": "20:00",
+                                                        "tickets": [
+                                                            {
+                                                              "type": "Inteira",
+                                                              "price": 45.00
+                                                            },
+                                                            {
+                                                              "type": "Meia",
+                                                              "price": 22.50
+                                                            },
+                                                            {
+                                                              "type": "Professor",
+                                                              "price": 30.00
+                                                            }
+                                                          ],
+                                                        "drinks": {
+                                                            "beer": {
+                                                                "quantity": 25,
+                                                                "price": 6
+                                                            },
+                                                            "cocktail": {
+                                                                "quantity": 20,
+                                                                "price": 9
+                                                            },
+                                                            "liquor": {
+                                                                "quantity": 15,
+                                                                "price": 12
+                                                            }
+                                                        },
+                                                        "food": {
+                                                            "quantity": 25,
+                                                            "price": 20
+                                                        }},],
+
+    "events": [
+        {
+            "id": "6",
+            "name": "Noite de Jazz",
+            "image": "https://imagekank.s3.amazonaws.com/the-week-rio.jpg",
+            "description": "Noite de jazz!",
+            "location": {
+                "address": "Rua das Flores, 22",
+                "latitude": -4.222996969193529, 
+                "longitude": -44.77763952249174
+            },
+            "date": "2022-12-01",
+            "time": "20:00",
+            "tickets": [
+                {
+                  "type": "Inteira",
+                  "price": 45.00
+                },
+                {
+                  "type": "Meia",
+                  "price": 22.50
+                },
+                {
+                  "type": "Professor",
+                  "price": 30.00
+                }
+              ],
+                
+                 "drinks": { "waterAndSoda":[
+                    {
+                        "image": "https://imagekank.s3.amazonaws.com/water64.png",
+                            "name": "Agua 60 ml",
+                            "quantity": 10,
+                            "price": 8.98
+                    }, 
+                    {
+                        "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                            "name": "Guarana",
+                            "quantity": 10,
+                            "price": 8
+                    }, 
+                    {
+                        "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                            "name": "Pepsi",
+                            "quantity": 10,
+                            "price": 8
+                    }
+                    ],
+                "beer":[ 
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                            "name": "Cacildes",
+                            "quantity": 10,
+                            "price": 8
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                            "name": "Brahma",
+                            "quantity": 15,
+                            "price": 6
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                            "name": "Skol",
+                            "quantity": 12,
+                            "price": 15
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                            "name": "Brahma",
+                            "quantity": 12,
+                            "price": 9
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                            "name": "Skol",
+                            "quantity": 12,
+                            "price": 9
+                        }],
+                "cocktail":[
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                            "name": "Mojito",
+                            "quantity": 10,
+                            "price": 12
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                            "name": "Caipirinha",
+                            "quantity": 15,
+                            "price": 10
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                            "name": "Caipirosca",
+                            "quantity": 12,
+                            "price": 15
+                        }],
+                "liquor":[
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                            "name": "Absolut",
+                            "quantity": 10,
+                            "price": 25
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                            "name": "Jack Daniels",
+                            "quantity": 15,
+                            "price": 20
+                        },
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                            "name": "Old Par",
+                            "quantity": 12,
+                            "price": 30
+                        }]},
+                        "foods": { "Entradas":[{
+                            "image": "https://imagekank.s3.amazonaws.com/agua.png",
+                                "name": "Carpacho",
+                                "quantity": 10,
+                                "price": 8.98
+                        }, 
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/guarana.png",
+                                "name": "Batata frita",
+                                "quantity": 10,
+                                "price": 8.34
+                        }, 
+                        {
+                            "image": "https://imagekank.s3.amazonaws.com/pepse.png",
+                                "name": "salgado",
+                                "quantity": 10,
+                                "price": 8
+                        }
+                        ],
+                    "Hambuguers":[ 
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                "name": "Buguer do Engenheiro",
+                                "quantity": 10,
+                                "price": 12.45
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                "name": "Burgão",
+                                "quantity": 15,
+                                "price": 16.67
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                "name": "X TUDO",
+                                "quantity": 12,
+                                "price": 15
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                "name": "Burguer Fogo nos racistas",
+                                "quantity": 12,
+                                "price": 18.89
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                "name": "Burguer Cana",
+                                "quantity": 12,
+                                "price": 9.98
+                            }],
+                    "tiraGosto":[
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/mojito.png",
+                                "name": "Rabada",
+                                "quantity": 10,
+                                "price": 12
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/caipirinha-800x600.png",
+                                "name": "Panelada",
+                                "quantity": 15,
+                                "price": 10
+                            },
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/caipirosca.png",
+                                "name": "Mocotó",
+                                "quantity": 12,
+                                "price": 15
+                            }]}
+           },
+            {
+                "id": "7",
+                "name": "Noite do beijo",
+                "image": "https://imagekank.s3.amazonaws.com/Sinica-Blog.jpg",
+                "description": "Aniversário com música ao vivo!",
+                "location": {
+                    "address": "Rua dos Amigos, 15",
+                    "latitude": -4.212472747286582, 
+                    "longitude": -44.782537111859334
+                    },
+                    "date": "2022-11-15",
+                    "time": "20:00",
+                    "tickets": {
+                        "price": 25
+                    },
+                "drinks": {
+                    "beer":{
+                            "quantity": 35,
+                            "price": 6
+                        },
+                    "cocktail": {
+                            "quantity": 30,
+                            "price": 9
+                        },
+                    "liquor": {
+                            "quantity": 25,
+                            "price": 12
+                        }
+                    },
+                "food": {
+                    "quantity": 30,
+                    "price": 25
+                }},                  
+                {
+                    "id": "10",
+                    "name": "Noite de Blues",
+                    "image": "https://imagekank.s3.amazonaws.com/the-week-rio.jpg",
+                    "description": "Noite de jazz com músicos renomados e ambiente requintado!",
+                    "location": {
+                            "address": "Rua das Flores, 22",
+                            "latitude": -4.230652877013957, 
+                            "longitude": -44.81542289566832
+                        },
+                    "date": "2022-12-01",
+                    "time": "21:00",
+                    "tickets": {
+                            "price": 30
+                        },
+                    "drinks": {
+                        "beer": {
+                            "quantity": 40,
+                            "price": 7
+                        },
+                        "cocktail": {
+                            "quantity": 35,
+                            "price": 10
+                        },
+                        "liquor": {
+                            "quantity": 30,
+                            "price": 15
+                         }
+                     },
+                    "food": {
+                        "quantity": 30,
+                        "price": 25
+                }},
+        {
+            "id": "8",
+            "name": "Show de Sertanejo",
+            "image": "https://imagekank.s3.amazonaws.com/Sinica-Blog.jpg",
+            "description": "Um incrível show de rock!!",
+            "location": {
+                "address": "Rua dos Bobos, 0",
+                "latitude": -4.219542617693271, 
+                "longitude": -44.734012715459755
+            },
+            "date": "2022-10-01",
+            "time": "22:00",
+            "tickets": {
+                "price": 20
+                },
+            "drinks": {
+                "beer": {
+                "quantity": 30,
+                "price": 5
+                },
+            "cocktail": {
+                "quantity": 25,
+                "price": 8
+                },
+            "liquor": {
+                "quantity": 20,
+                "price": 10
+            }},
+            "food": {
+                "quantity": 20,
+                "price": 15
+            }},
+            {
+                "id": "9",
+                "name": "Festa do Pijama",
+                "image": "https://imagekank.s3.amazonaws.com/amsterdam.jpg",
+                "description": "Uma incrível festa de aniversário!",
+                "location": {
+                    "address": "Rua das Festas, 20",
+                    "latitude": -2.527559,
+                    "longitude": -44.241131
+                },
+                "date": "2022-12-01",
+                "time": "20:00",
+                "tickets": {
+                    "price": 30
+                    
+                },
+                "drinks": {
+                    "beer": {
+                        "quantity": 40,
+                        "price": 7
+                    },
+                    "cocktail": {
+                        "quantity": 35,
+                        "price": 10
+                },
+                    "liquor": {
+                        "quantity": 30,
+                        "price": 15
+                }},
+                "food": {
+                    "quantity": 30,
+                    "price": 25
+                }},
+
+            {
+                "id": "15",
+                "name": "Festa do Pijama",
+                "image": "https://imagekank.s3.amazonaws.com/amsterdam.jpg",
+                "description": "Uma incrível festa de aniversário!",
+                "location": {
+                    "address": "Rua das Festas, 20",
+                    "latitude": -2.527559,
+                    "longitude": -44.241131
+                },
+                "date": "2022-12-01",
+                "time": "20:00",
+                "tickets": {
+                    "price": 30
+                    
+                },
+                "drinks": {
+                    "beer": {
+                        "quantity": 40,
+                        "price": 7
+                    },
+                    "cocktail": {
+                        "quantity": 35,
+                        "price": 10
+                },
+                    "liquor": {
+                        "quantity": 30,
+                        "price": 15
+                }},
+                "food": {
+                    "quantity": 30,
+                    "price": 25
+                }},
+           
+                {
+                    "id": "10",
+                    "name": "Noite de Jazz",
+                    "image": "https://imagekank.s3.amazonaws.com/the-week-rio.jpg",
+                    "description": "Noite de jazz!",
+                    "location": {
+                        "address": "Rua das Flores, 22",
+                        "latitude": -4.222996969193529, 
+                        "longitude": -44.77763952249174
+                    },
+                    "date": "2022-12-01",
+                    "time": "21:00",
+                        "tickets": {
+                            "price": 30
+                            
+                         },
+                         "drinks": { "waterAndSoda":[
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/water64.png",
+                                    "name": "Agua 60 ml",
+                                    "quantity": 10,
+                                    "price": 8.98
+                            }, 
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                                    "name": "Guarana",
+                                    "quantity": 10,
+                                    "price": 8
+                            }, 
+                            {
+                                "image": "https://imagekank.s3.amazonaws.com/soda64.png",
+                                    "name": "Pepsi",
+                                    "quantity": 10,
+                                    "price": 8
+                            }
+                            ],
+                        "beer":[ 
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                                    "name": "Cacildes",
+                                    "quantity": 10,
+                                    "price": 8
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",
+                                    "name": "Brahma",
+                                    "quantity": 15,
+                                    "price": 6
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Skol",
+                                    "quantity": 12,
+                                    "price": 15
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Brahma",
+                                    "quantity": 12,
+                                    "price": 9
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconbeer.png",   
+                                    "name": "Skol",
+                                    "quantity": 12,
+                                    "price": 9
+                                }],
+                        "cocktail":[
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Mojito",
+                                    "quantity": 10,
+                                    "price": 12
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Caipirinha",
+                                    "quantity": 15,
+                                    "price": 10
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/drink64.png",
+                                    "name": "Caipirosca",
+                                    "quantity": 12,
+                                    "price": 15
+                                }],
+                        "liquor":[
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Absolut",
+                                    "quantity": 10,
+                                    "price": 25
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Jack Daniels",
+                                    "quantity": 15,
+                                    "price": 20
+                                },
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/iconVodka64.png",
+                                    "name": "Old Par",
+                                    "quantity": 12,
+                                    "price": 30
+                                }]},
+                                "foods": { "Entradas":[{
+                                    "image": "https://imagekank.s3.amazonaws.com/agua.png",
+                                        "name": "Carpacho",
+                                        "quantity": 10,
+                                        "price": 8.98
+                                }, 
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/guarana.png",
+                                        "name": "Batata frita",
+                                        "quantity": 10,
+                                        "price": 8.34
+                                }, 
+                                {
+                                    "image": "https://imagekank.s3.amazonaws.com/pepse.png",
+                                        "name": "salgado",
+                                        "quantity": 10,
+                                        "price": 8
+                                }
+                                ],
+                            "Hambuguers":[ 
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                        "name": "Buguer do Engenheiro",
+                                        "quantity": 10,
+                                        "price": 12.45
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",
+                                        "name": "Burgão",
+                                        "quantity": 15,
+                                        "price": 16.67
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                        "name": "X TUDO",
+                                        "quantity": 12,
+                                        "price": 15
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                        "name": "Burguer Fogo nos racistas",
+                                        "quantity": 12,
+                                        "price": 18.89
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/hamburger-128.png",   
+                                        "name": "Burguer Cana",
+                                        "quantity": 12,
+                                        "price": 9.98
+                                    }],
+                            "tiraGosto":[
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/mojito.png",
+                                        "name": "Rabada",
+                                        "quantity": 10,
+                                        "price": 12
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/caipirinha-800x600.png",
+                                        "name": "Panelada",
+                                        "quantity": 15,
+                                        "price": 10
+                                    },
+                                    {
+                                        "image": "https://imagekank.s3.amazonaws.com/caipirosca.png",
+                                        "name": "Mocotó",
+                                        "quantity": 12,
+                                        "price": 15
+                                    }]}
+                   }]
+            }

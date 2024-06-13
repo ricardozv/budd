@@ -1,0 +1,95 @@
+{
+    "tickets": [
+      {
+        "ticketId": 1,
+        "eventName": "Festa na praia",
+        "eventLocation": "Avenida Litoranêa, 30, São luís",
+        "eventDate": "2023-07-04",
+        "eventTime": "20:00",
+        "ticketType": "Inteira",
+        "ticketPrice": 25.00,
+        "ticketQrCode": "1a2b3c4d5e"
+      },
+      {
+        "ticketId": 2,
+        "eventName": "Baile de mascarás",
+        "eventLocation": "Jockey club, Teresina",
+        "eventDate": "2023-08-31",
+        "eventTime": "22:00",
+        "ticketType": "VIP",
+        "ticketPrice": 50.00,
+        "ticketQrCode": "5e4d3c2b1a"
+      },
+      {
+        "ticketId": 3,
+        "eventName": "Music All Night",
+        "eventLocation": "Jazz Club, São luís",
+        "eventDate": "2023-09-15",
+        "eventTime": "19:30",
+        "ticketType": "Early Bird",
+        "ticketPrice": 15.00,
+        "ticketQrCode": "a1b2c3d4e5"
+      }, 
+      {
+        "ticketId": 4,
+        "eventName": "Rave party",
+        "eventLocation": "Raposa, Florestina",
+        "eventDate": "2023-07-04",
+        "eventTime": "20:00",
+        "ticketType": "General Admission",
+        "ticketPrice": 25.00,
+        "ticketQrCode": "1a2b3c4d5e"
+      },
+      {
+        "ticketId": 5,
+        "eventName": "Midnight Masquerade",
+        "eventLocation": "The Rooftop, New York",
+        "eventDate": "2023-08-31",
+        "eventTime": "22:00",
+        "ticketType": "VIP",
+        "ticketPrice": 50.00,
+        "ticketQrCode": "5e4d3c2b1a"
+      },
+      {
+        "ticketId": 6,
+        "eventName": "Rock beach",
+        "eventLocation": "Avenida Litoranêa, 20, São luís",
+        "eventDate": "2023-09-15",
+        "eventTime": "19:30",
+        "ticketType": "Early Bird",
+        "ticketPrice": 15.00,
+        "ticketQrCode": "a1b2c3d4e5"
+      },
+      {
+        "ticketId": 7,
+        "eventName": "Festa do pijama",
+        "eventLocation": "La em casa, São luís",
+        "eventDate": "2023-07-04",
+        "eventTime": "20:00",
+        "ticketType": "General Admission",
+        "ticketPrice": 25.00,
+        "ticketQrCode": "1a2b3c4d5e"
+      },
+      {
+        "ticketId": 8,
+        "eventName": "Pagode de segunda",
+        "eventLocation": "Rua da arvore, São luís",
+        "eventDate": "2023-08-31",
+        "eventTime": "22:00",
+        "ticketType": "VIP",
+        "ticketPrice": 50.00,
+        "ticketQrCode": "5e4d3c2b1a"
+      },
+      {
+        "ticketId": 9,
+        "eventName": "Festa Junina",
+        "eventLocation": "Chico Discos, São luís",
+        "eventDate": "2023-09-15",
+        "eventTime": "19:30",
+        "ticketType": "Early Bird",
+        "ticketPrice": 15.00,
+        "ticketQrCode": "a1b2c3d4e5"
+      }
+    ]
+  }
+  

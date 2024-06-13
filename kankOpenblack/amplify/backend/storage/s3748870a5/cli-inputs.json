@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3748870a5",
+  "policyUUID": "748870a5",
+  "bucketName": "buddapp59354847f48f4be9ac42302cb97e2e18",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger288aa3a8",
+  "groupAccess": {}
+}
